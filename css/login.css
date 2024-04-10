@@ -1,0 +1,155 @@
+body{
+    background-image: url(../img/fundo1.jpg);
+}
+
+.divTitulo{
+    display: flex;
+    justify-content: center;
+}
+
+.logoIcon{
+    Margin-top: 20px;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.titulo{
+    Margin-top: 20px;
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+  
+}
+
+.divCadastro{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.fundoCadastro{
+    background-color: rgba(25, 25, 25, 0.1);
+    backdrop-filter: blur(8px);
+    width: 450px;
+    height: 400px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.925);
+}
+
+.subTituloCad{
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin-bottom: -10px;
+    
+}
+
+.subLogin,
+.loginText{
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-bottom: 15px;
+    
+}
+
+.label3,
+.label6{
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin-left: -335px;
+}
+
+.caixa3,
+.caixa6{
+    font-family: "Comfortaa", sans-serif;
+    font-style: normal;
+    background-color: rgb(31, 31, 31);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    width: 365px;
+    height: 45px;
+    margin-right: 8px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.botao1{
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    border: none; 
+    background-color: rgba(80, 80, 80, 0.3);
+    color: rgb(255, 255, 255);
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 21px;
+    margin-top: 12px;
+    transition: 0.5s;
+}
+
+.botao1:hover{
+    background-color: rgb(219, 219, 219);
+    color: black;
+    width: 270px;
+    height: 50px;
+    font-size: 24px;
+}
+
+.divInfos{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.fundoInfos{
+    background-color: rgba(29, 29, 29, 0.2);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.658);
+    backdrop-filter: blur(5px);
+    width: 2000px;
+    height: 150px;
+    margin-right: -6px;
+    margin-left: -6px;
+    margin-bottom: -10px;
+   
+    
+}
+
+.infoTitulo{
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 17px;
+
+}
+
+.imgInfo{
+    
+    width: 20px;
+    height: 20px;
+    opacity: 60%;
+}
+
+.info1{
+    
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 15px;
+}
+
+.info2{
+    
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 13px;
+}

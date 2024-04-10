@@ -1,0 +1,84 @@
+/* style.css
+body{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(82, 82, 82);
+}
+
+.divCadastro{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.icone1{
+    width: 22px;
+    height: 22px;
+}
+
+.icone2{
+    width: 22px;
+    height: 22px;
+}
+
+.icone3{
+    width: 22px;
+    height: 22px;
+}
+
+
+
+
+.titulo{
+    color: black;
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.titulo:hover{
+    color: rgb(109, 109, 109);
+}
+
+button{
+    background-color: rgb(43, 43, 43);
+    color: rgb(248, 248, 248);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 6px 50px;
+    transition: 0.2s;
+}
+
+.botao:hover{
+    background-color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    padding: 9px 90px;
+
+}
+
+.legenda1,
+.legenda2,
+.legenda3,
+.legenda4{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+}
+
+
+
+.valor1,
+.valor2,
+.valor3,
+.valor4{
+    font-size: 20px;
+    padding: 8px 50px;
+    border-radius: 9px;
+    text-align: center;
+    
+} */

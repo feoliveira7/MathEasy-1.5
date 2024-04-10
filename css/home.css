@@ -1,0 +1,165 @@
+body{
+    background-color: rgb(27, 27, 27);
+    background-image: url(/img/fundo1.jpg);
+}
+
+.divTitulo{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logoIcon{
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    
+}
+
+.titulo{
+    margin-top: 10px;
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+   
+}
+
+.divTextos{
+    display: flex;
+    justify-content: center;
+}
+
+.texto1{
+margin-top: -10px;
+    font-family: "Comfortaa", sans-serif;
+
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.texto2{
+margin-bottom: 10px;
+    font-family: "Outfit", sans-serif;
+    font-size: 27px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+  
+}
+
+.texto3{
+    margin-top: -10px;
+    margin-bottom: 10px;
+        font-family: "Comfortaa", sans-serif;
+        font-size: 20px;
+        color: rgb(81, 236, 49);
+        margin-left: 5px;
+        margin-right: 5px;
+        text-shadow: 0px 0px 20px rgba(9, 255, 0, 0.986);
+       
+      
+    }
+
+.fundoFolders{
+    display: flex;
+    justify-content: center;
+    background-color:rgba(14, 14, 14, 0);
+    width: 900px;
+    height: 300px;
+    border-radius: 25px;
+    
+}
+
+.folderCursos{
+
+    width: 240px;
+    height: 410px;
+    margin-right: 20px;
+    border-radius: 20px;
+    opacity: 45%;
+    transition: 0.39s;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.644);
+}
+
+.folderCursos:hover{
+    width: 310px;
+    height: 500px;
+    opacity: 100%;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.925);
+
+
+}
+
+.divFolders{
+    display: flex;
+    justify-content: center;
+}
+
+.divInfos{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 280px;
+}
+
+.fundoInfos{
+    background-color: rgba(29, 29, 29, 0.2);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.658);
+    backdrop-filter: blur(5px);
+    width: 2000px;
+    height: 150px;
+    margin-right: -6px;
+    margin-left: -6px;
+    margin-bottom: -10px;
+   
+    
+}
+
+.infoTitulo{
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 17px;
+
+}
+
+.imgInfo{
+    
+    width: 20px;
+    height: 20px;
+    opacity: 60%;
+}
+
+.info1{
+    
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 15px;
+}
+
+.info2{
+    
+    font-family: "Comfortaa", sans-serif;
+    color: rgb(134, 134, 134);
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* font-family: "Comfortaa", sans-serif; */
+/* font-family: "Outfit", sans-serif; */
